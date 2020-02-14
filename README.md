@@ -1,6 +1,6 @@
 # font Trajan Regular Pro
 
-How to use it on blogger: 
+How to use it for blogger: 
 
 CDN: de nuestro repo de nuestra fuente oficial en GitHub   -->
 URL Production
